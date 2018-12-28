@@ -1,0 +1,15 @@
+C:\Users\jzena\Desktop\GeneratedSQLall\JoinSQL\JoinSQL\bin\Debug\JoinSQL.exe
+C:\Users\jzena\Desktop\GeneratedSQLall\JoinSQL\JoinSQL\bin\Debug\JoinSQL.pdb
+C:\Users\jzena\Desktop\GeneratedSQLall\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.Form1.resources
+C:\Users\jzena\Desktop\GeneratedSQLall\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.Properties.Resources.resources
+C:\Users\jzena\Desktop\GeneratedSQLall\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.csproj.GenerateResource.Cache
+C:\Users\jzena\Desktop\GeneratedSQLall\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.exe
+C:\Users\jzena\Desktop\GeneratedSQLall\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.pdb
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.exe
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.pdb
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\bin\Debug\JoinSQL.exe
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\bin\Debug\JoinSQL.pdb
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.csprojResolveAssemblyReference.cache
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.Form1.resources
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.Properties.Resources.resources
+D:\Proyectos\JoinSQL\JoinSQL\JoinSQL\obj\x86\Debug\JoinSQL.csproj.GenerateResource.Cache
